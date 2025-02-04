@@ -36,7 +36,8 @@ Cancellations by booking segment (online vs. offline)
 Cancellations by room type
 Price sensitivity and cancellation rates
 Customer retention analysis
-Key Recommendations
+
+# Key Recommendations
 Focus on Online Booking Experience: Improving the online booking interface can significantly reduce cancellations.
 Target Seasonal Cancellations: Offering promotions during high-cancellation months (July to October) can reduce the impact of seasonal cancellations.
 Customer Retention Strategies: Develop loyalty programs or special offers to encourage repeat visits.
@@ -45,10 +46,12 @@ Getting Started
 Clone this repository or download the Tableau workbook file.
 Open the Tableau file in Tableau Desktop.
 Explore the interactive dashboard for insights into hotel booking patterns.
-Prerequisites
+
+# Prerequisites
 Tableau Desktop (latest version recommended)
 Hotel Reservation Dataset (included in the report)
-Usage
+
+# Usage
 This project is useful for hotel management teams, marketers, and analysts looking to reduce cancellations and improve overall booking rates through data-driven insights.
 
 
